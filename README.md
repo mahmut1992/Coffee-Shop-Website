@@ -1,7 +1,27 @@
-# CoffeeShop-Proje
+# 🏠Coffee-Shop-Website
 
-<p>kahve satan bir işletmenin sahip olduğu bir web sitesi tasarımı.</p>
+In this repo, the website design of a business selling coffee was designed using Html, Css and JavaScript.
 
-<h3>Ekran Görüntüsü</h3>
+# 🚀Features
 
-![](CoffeeShop.gif)
+-Responsive Design
+
+-User-Friendly Interface
+
+-Dynamic Navbar
+
+# 🛠️Technologies Used
+
+-Html
+
+-Css
+
+-Js
+
+# Screenshot
+
+![](CoffeeShop.gif
+
+# 📨Contact
+
+For your questions, comments and suggestions, please contact: fratsbht@icloud.com
